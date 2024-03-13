@@ -7,7 +7,7 @@ https://github.com/iBotPeaches/Apktool
 Install 
 
 ```bash
-git clone https://github.com/Lexiie/Termux-Apktool
+git clone https://github.com/princemaster1/Termux-Apktool
 cd Termux-Apktool
 dpkg -i apktool_2.3.4_all.deb
 ```
